@@ -95,7 +95,7 @@ dependencies {
 
 1. **Clonar el repositorio:**
 ```bash
-git clone https://github.com/tu-usuario/practica6-sensores.git
+git clone https://github.com/MartinCortes20/practica6Moviles
 cd practica6-sensores
 ```
 
